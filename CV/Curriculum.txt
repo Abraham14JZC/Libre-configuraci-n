@@ -1,0 +1,79 @@
+<html>
+
+<head>
+	<title>Curriculum</title>
+	
+	<style type="text/css">
+	#cabecera {
+		box-sizing: border-box;
+		width: 100%;
+		height: 150px;
+		background: #DEBD57;
+		border-style: solid;
+		box-sizing: border-box;
+		}
+	#menu {
+		box-sizing: border-box;
+		width: 20%;
+		height: 450px;
+		background: red;
+		float: left;
+		border-style: solid;
+		box-sizing: border-box;
+		}
+	#menulateral {
+		box-sizing: border-box;
+		width: 55%;
+		height: 450px;
+		background: yellow;
+		float: left;
+		border-style: solid;
+		box-sizing: border-box;
+		}
+	#contenido {
+		box-sizing: border-box;
+		width: 25%;
+		height: 450px;
+		background: #D4C9A8;
+		float: left;
+		border-style: solid;
+		box-sizing: border-box;
+		}
+	#pie {
+		box-sizing: border-box;
+		width: 100%;
+		height: 200px;
+		background: gray;
+		clear: left;
+		border-style: solid;
+		box-sizing: border-box;
+		}
+	</style>
+	
+</head>
+
+<body>
+
+<div id="cabecera">
+	
+</div>
+
+<div id="menu">
+	Menú
+</div>
+
+<div id="menulateral">
+	Lateral 
+</div>
+
+<div id="contenido">
+	
+</div>
+
+<div id="pie">
+	Pie de página
+</div>
+
+</body>
+
+</html>
